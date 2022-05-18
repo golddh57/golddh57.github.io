@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    font-weight: inherit;
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: 100px;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+body {
+    line-height: none;
+}
+
+img {
+    vertical-align: none;
+}
