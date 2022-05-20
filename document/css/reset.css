@@ -17,7 +17,7 @@ li {
 }
 
 body {
-    line-height: none;
+    line-height: 1;
 }
 
 img {
